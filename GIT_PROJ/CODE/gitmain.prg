@@ -1,0 +1,2 @@
+SET DEFAULT TO C:\GIT_PROJ
+DO testmain.prg
